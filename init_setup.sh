@@ -18,8 +18,8 @@ echo "# ${PWD}" > README.md
 echo [$(date)]: "first commit"
 git add .
 git commit -m "first commit"
-echo [$(date)]: "second commit"
-git [$(date)]: "END"
+
+echo [$(date)]: "END"
 
 
 # to remove everything -
