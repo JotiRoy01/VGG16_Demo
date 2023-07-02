@@ -4,3 +4,5 @@ seaborn
 numpy
 pandas
 notebook
+scikit-learn
+setuptools
