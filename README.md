@@ -1,2 +1,1 @@
-# general_template
- general template for any project
+# /home/joti/Documents/DL/CV_Project/VGG16/VGG16_Demo
