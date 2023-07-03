@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 data/
 notebook/VGG16_full_model.h5
+notebook/trained_model.h5
